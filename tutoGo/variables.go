@@ -11,7 +11,7 @@ func main() {
 	var num2, num3, num4 int
 	num2, num3, num4 = 2, 5, 9
 
-	fmt.Println(numero2)
-	fmt.Println(numero3)
-	fmt.Println(numero4)
+	fmt.Println(num2)
+	fmt.Println(num3)
+	fmt.Println(num4)
 }
