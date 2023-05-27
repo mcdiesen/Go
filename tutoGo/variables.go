@@ -7,8 +7,9 @@ var texto string
 var status bool
 
 func main() {
-	var numero2, numero3, numero4 int
-	numero2, numero3, numero4 = 2, 5, 9
+	//Declaring an int variables num2, num3 and num4
+	var num2, num3, num4 int
+	num2, num3, num4 = 2, 5, 9
 
 	fmt.Println(numero2)
 	fmt.Println(numero3)
